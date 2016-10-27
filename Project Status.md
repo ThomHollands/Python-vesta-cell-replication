@@ -5,8 +5,8 @@
 Produce a script that allows us to generate new repeated super cells from an input VESTA file.
 ***
 ## To-Do
-[x] Read in input VESTA file.\n
-[x] Arrange into workable format.\n
-[x] Add repeat distances to x, y, z co-ordinates of atoms in file.\n
-[] Create a new instance of structure that included new repeats.\n
-[] Write new structure into a new VESTA file.\n
+- [x] Read in input VESTA file.  
+- [x] Arrange into workable format.  
+- [x] Add repeat distances to x, y, z co-ordinates of atoms in file.  
+- [] Create a new instance of structure that included new repeats.  
+- [] Write new structure into a new VESTA file.  
