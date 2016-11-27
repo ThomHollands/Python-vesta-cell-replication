@@ -9,8 +9,11 @@ Produce a script that allows us to generate new repeated super cells from an inp
 - [x] Arrange into workable format.  
 - [x] Add repeat distances to x, y, z co-ordinates of atoms in file.
 - [x] Write each section into a new text file.
-- [ ] Fix the significant figure problem with the numbers in the test file.
-- [ ] Test the new file can be read in VESTA.
-- [ ] Create a new instance of structure that included new repeats.  
+- [x] Fix the significant figure problem with the numbers in the test file.
+- [x] Test the new file can be read in VESTA.
+- [ ] Generate absolute coordinates from the relative coordinates and cell parameters.
+- [ ] Redefine the cell parameters.
+- [ ] Create new structure elements with absolute coordinates.
+- [ ] Convert all coordinates into relative coordinates. 
 - [ ] Write new structure into a new VESTA file.
 - [ ] Test new structure can be read in VESTA.
