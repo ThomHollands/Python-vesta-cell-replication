@@ -12,7 +12,7 @@ Produce a script that allows us to generate new repeated super cells from an inp
 - [x] Fix the significant figure problem with the numbers in the test file.
 - [x] Test the new file can be read in VESTA.
 - [x] Generate absolute coordinates from the relative coordinates and cell parameters.
-- [ ] Redefine the cell parameters.
+- [x] Redefine the cell parameters.
 - [ ] Create new structure elements with absolute coordinates.
 - [ ] Convert all coordinates into relative coordinates. 
 - [ ] Write new structure into a new VESTA file.
